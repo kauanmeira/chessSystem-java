@@ -5,8 +5,8 @@ import boardgame.Board;
 public class ChessMatch {
     private Board board;
 
-    public class ChessMatch() {
-        board =new Board(8,8);
+    public  ChessMatch(){
+        board = new Board(8, 8);
     }
 
     public ChessPiece[][] getPieces() {
