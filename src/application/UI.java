@@ -68,8 +68,9 @@ public class UI {
             System.out.print(ANSI_RED);
             System.out.println("CHECKMATE!!");
             System.out.print(ANSI_RESET);
+            System.out.print(ANSI_GREEN);
             System.out.println("Winner: " + chessMatch.getCurrentPlayer());
-
+            System.out.print(ANSI_RESET);
 
         }
 
