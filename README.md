@@ -14,3 +14,6 @@ Conhecimentos utilizados para desenvolvimento do projeto:
 -Associação de classes.
 -Matrizes e vetores.
 -Tratamento de exceções.
+
+![image](https://user-images.githubusercontent.com/114404211/236009046-584db91f-d3ca-4b44-9700-4185a1bb4372.png)
+
